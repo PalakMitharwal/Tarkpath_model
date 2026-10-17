@@ -1,9 +1,10 @@
 {
   "name": "tarkpath-demo",
   "version": "1.0.0",
-  "description": "Tarkpath frontend-only demo (static site, no dependencies)",
+  "description": "Tarkpath frontend demo (static site, no dependencies)",
   "private": true,
   "scripts": {
-    "start": "npx --yes serve ."
+    "start": "npx --yes serve .",
+    "dev": "npx --yes serve ."
   }
 }
