@@ -1,0 +1,9 @@
+{
+  "name": "tarkpath-demo",
+  "version": "1.0.0",
+  "description": "Tarkpath frontend-only demo (static site, no dependencies)",
+  "private": true,
+  "scripts": {
+    "start": "npx --yes serve ."
+  }
+}
